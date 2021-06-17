@@ -1,0 +1,147 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 46111
+
+[23:33:20] Extension host agent started.
+[23:33:20] [127.0.0.1][bdec3983][ManagementConnection] New connection established.
+[23:33:20] [127.0.0.1][d301c718][ExtensionHostConnection] New connection established.
+[23:33:21] [127.0.0.1][d301c718][ExtensionHostConnection] <2374> Launched Extension Host Process.
+[23:33:21] *
+[23:33:21] baseEnv {
+  MAIL: '/var/mail/ubuntu',
+  USER: 'ubuntu',
+  SSH_CLIENT: '115.70.22.188 64211 22',
+  SHLVL: '3',
+  HOME: '/home/ubuntu',
+  LOGNAME: 'ubuntu',
+  _: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/node',
+  XDG_SESSION_ID: '1',
+  PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin',
+  VSCODE_AGENT_FOLDER: '/home/ubuntu/.vscode-server',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  LANG: 'C.UTF-8',
+  SHELL: '/bin/bash',
+  PWD: '/home/ubuntu',
+  SSH_CONNECTION: '115.70.22.188 64211 10.255.0.44 22',
+  XDG_DATA_DIRS: '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/remote/node_modules',
+  VSCODE_CWD: '/home/ubuntu',
+  LS_COLORS: '',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin/helpers/browser.sh'
+}
+[23:33:22] *
+[23:33:22] baseEnv {
+  MAIL: '/var/mail/ubuntu',
+  USER: 'ubuntu',
+  SSH_CLIENT: '115.70.22.188 64211 22',
+  SHLVL: '3',
+  HOME: '/home/ubuntu',
+  LOGNAME: 'ubuntu',
+  _: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/node',
+  XDG_SESSION_ID: '1',
+  PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin',
+  VSCODE_AGENT_FOLDER: '/home/ubuntu/.vscode-server',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  LANG: 'C.UTF-8',
+  SHELL: '/bin/bash',
+  PWD: '/home/ubuntu',
+  SSH_CONNECTION: '115.70.22.188 64211 10.255.0.44 22',
+  XDG_DATA_DIRS: '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/remote/node_modules',
+  VSCODE_CWD: '/home/ubuntu',
+  LS_COLORS: '',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin/helpers/browser.sh'
+}
+[23:33:22] *
+[23:33:22] baseEnv {
+  MAIL: '/var/mail/ubuntu',
+  USER: 'ubuntu',
+  SSH_CLIENT: '115.70.22.188 64211 22',
+  SHLVL: '3',
+  HOME: '/home/ubuntu',
+  LOGNAME: 'ubuntu',
+  _: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/node',
+  XDG_SESSION_ID: '1',
+  PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin',
+  VSCODE_AGENT_FOLDER: '/home/ubuntu/.vscode-server',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  LANG: 'C.UTF-8',
+  SHELL: '/bin/bash',
+  PWD: '/home/ubuntu',
+  SSH_CONNECTION: '115.70.22.188 64211 10.255.0.44 22',
+  XDG_DATA_DIRS: '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/remote/node_modules',
+  VSCODE_CWD: '/home/ubuntu',
+  LS_COLORS: '',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin/helpers/browser.sh'
+}
+[23:33:25] *
+[23:33:25] baseEnv {
+  MAIL: '/var/mail/ubuntu',
+  USER: 'ubuntu',
+  SSH_CLIENT: '115.70.22.188 64211 22',
+  SHLVL: '3',
+  HOME: '/home/ubuntu',
+  LOGNAME: 'ubuntu',
+  _: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/node',
+  XDG_SESSION_ID: '1',
+  PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin',
+  VSCODE_AGENT_FOLDER: '/home/ubuntu/.vscode-server',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  LANG: 'C.UTF-8',
+  SHELL: '/bin/bash',
+  PWD: '/home/ubuntu',
+  SSH_CONNECTION: '115.70.22.188 64211 10.255.0.44 22',
+  XDG_DATA_DIRS: '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/remote/node_modules',
+  VSCODE_CWD: '/home/ubuntu',
+  LS_COLORS: '',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin/helpers/browser.sh'
+}
